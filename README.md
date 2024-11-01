@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shalom-data
+- 👋 Hi, I’m @Shalom
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m currently learning Data Analysis and SQL
 - 💞️ I’m looking to collaborate on any project related to Data
